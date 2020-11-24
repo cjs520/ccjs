@@ -1,0 +1,1 @@
+node cfcc.js https://www.liuzeqi.com daili.txt 200000 1 & node cfcc.js https://www.liuzeqi.com daili.txt 200000 1 &
